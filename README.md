@@ -62,7 +62,7 @@
   <a href="www.linkedin.com/in/jean-carlo-oliveira-filho-62039a231" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://meu-perfil-digital-br.vercel.app/" target="_blank">
+  <a href="https://jeancarlofilhodev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Digital%20Portfolio&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
